@@ -1,0 +1,12 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.env
+.env.test
+private/
+.pem
+private.*
+config.*
+vscode/
+settings.*
